@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="start_activity">Start an Activity</string>
+    <string name="button_order">ORDER</string>
+    <string name="pizza_1">MARGARITA</string>
+
+
+</resources>
