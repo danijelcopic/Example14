@@ -1,7 +1,22 @@
 <resources>
-    <string name="app_name">Aktivnost</string>
-    <string name="start_activity">Startuj aktivnosti</string>
-    <string name="open_browser">Otvoren web pretrazivac</string>
-    <string name="open_third_activity">Otvori trecu aktivnost</string>
-    <string name="open_camera">Otvori kameru</string>
+
+<string name="app_name">Aktivnosti</string>
+<string name="open_browser">Otvori web pretraživač</string>
+<string name="start_activity">Startuj Aktivnost</string>
+<string name="button_order">NARUČI</string>
+<string name="pizza_1">MARGARITA</string>
+<string name="activity2_name">PICA</string>
+
+<string name="ingridients">SASTOJCI:</string>
+<string name="ingridients_des">sveže pečurke, zelena paprika, feferone i mocarela sir sa belim i crvenim lukom</string>
+
+<string name="category">VRSTA: </string>
+<string name="category_des">ljuta pica sa komadićima čilija</string>
+
+<string name="calorie">KALORIJE: </string>
+<string name="calorie_des">100g  sadrži  266kcal</string>
+
+<string name="price">780,00 din.</string>
+<string name="calory">1250 KJ</string>
+
 </resources>

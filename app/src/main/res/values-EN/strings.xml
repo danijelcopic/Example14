@@ -1,7 +1,21 @@
 <resources>
-    <string name="app_name">Activities</string>
-    <string name="start_activity">Start an Activity</string>
-    <string name="open_browser">Open Web Browser</string>
-    <string name="open_third_activity">Open Third Activity</string>
-    <string name="open_camera">Open Camera</string>
+<string name="app_name">Activities</string>
+<string name="open_browser">Open web browser</string>
+<string name="start_activity">Start Activity</string>
+<string name="button_order">ORDER</string>
+<string name="pizza_1">MARGHERITA</string>
+<string name="activity2_name">PIZZA</string>
+
+<string name="ingridients">INGREDIENTS:</string>
+<string name="ingridients_des">fresh mushrooms, green peppers, pepperoni, and mozzarella cheese with onion and red garlic</string>
+
+<string name="category">CATEGORY: </string>
+<string name="category_des">hot pizza with chilli flakes</string>
+
+<string name="calorie">CALORIE: </string>
+<string name="calorie_des">100g  eq.  266kcal</string>
+
+<string name="price">9.98 $</string>
+<string name="calory">1250 KJ</string>
+
 </resources>
