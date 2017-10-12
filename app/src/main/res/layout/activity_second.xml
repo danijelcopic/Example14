@@ -127,6 +127,8 @@
     </LinearLayout>
 
 
+
+
     <!-- #5 cena i dugme za naručivanje   -->
     <LinearLayout
         android:layout_width="match_parent"
